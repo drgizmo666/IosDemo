@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="NavControllerDemo/NavControllerDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="NavControllerDemo/AppDelegate.cs" Line="28" Column="83" />
+      <File FileName="NavControllerDemo/TwillightViewController.cs" Line="12" Column="4" />
+      <File FileName="NavControllerDemo/TwillightViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="NavControllerDemo/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

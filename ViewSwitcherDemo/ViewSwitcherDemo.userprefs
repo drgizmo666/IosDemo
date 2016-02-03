@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="ViewSwitcherDemo/ViewSwitcherDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.9.2" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ViewSwitcherDemo/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ViewSwitcherDemo/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

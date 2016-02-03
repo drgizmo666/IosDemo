@@ -1,0 +1,17 @@
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/20-view-21.nib
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/8-view-13.nib
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UINavigationController-6.nib
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-20.nib
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/optimized/
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/bin/iPhoneSimulator/Debug/NavControllerDemo.exe.mdb
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/bin/iPhoneSimulator/Debug/NavControllerDemo.exe
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/NavControllerDemo.exe
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/NavControllerDemo.exe.mdb
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/163-view-164.nib
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-163.nib
+/Users/student/GitHub/IosDemo/NavControllerDemo/NavControllerDemo/obj/iPhoneSimulator/Debug/optimized/pika.png

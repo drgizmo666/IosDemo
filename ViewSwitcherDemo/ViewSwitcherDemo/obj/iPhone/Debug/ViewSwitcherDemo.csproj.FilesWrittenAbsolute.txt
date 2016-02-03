@@ -1,0 +1,14 @@
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/ibtool/Main.storyboardc/12-view-13.nib
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/ibtool/Main.storyboardc/Pink.nib
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/actool/partial-info.plist
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/optimized/
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/bin/iPhone/Debug/ViewSwitcherDemo.exe.mdb
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/bin/iPhone/Debug/ViewSwitcherDemo.exe
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/ViewSwitcherDemo.exe
+/Users/student/Desktop/ViewSwitcherDemo/ViewSwitcherDemo/obj/iPhone/Debug/ViewSwitcherDemo.exe.mdb
