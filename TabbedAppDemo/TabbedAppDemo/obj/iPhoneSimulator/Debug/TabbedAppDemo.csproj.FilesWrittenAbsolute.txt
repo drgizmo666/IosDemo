@@ -1,0 +1,16 @@
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/8-view-9.nib
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UITabBarController-49e-Tb-3d3.nib
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/actool/bundle/Assets.car
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/optimized/batman.png
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/optimized/
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/bin/iPhoneSimulator/Debug/TabbedAppDemo.exe.mdb
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/bin/iPhoneSimulator/Debug/TabbedAppDemo.exe
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/TabbedAppDemo.exe
+/Users/student/Desktop/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/TabbedAppDemo.exe.mdb

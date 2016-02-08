@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbedAppDemo", "TabbedAppDemo\TabbedAppDemo.csproj", "{AA18694D-30CA-4E75-B47D-4D54CEAA9ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA18694D-30CA-4E75-B47D-4D54CEAA9ED0}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AA18694D-30CA-4E75-B47D-4D54CEAA9ED0}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AA18694D-30CA-4E75-B47D-4D54CEAA9ED0}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AA18694D-30CA-4E75-B47D-4D54CEAA9ED0}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AA18694D-30CA-4E75-B47D-4D54CEAA9ED0}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AA18694D-30CA-4E75-B47D-4D54CEAA9ED0}.Release|iPhone.Build.0 = Release|iPhone
+		{AA18694D-30CA-4E75-B47D-4D54CEAA9ED0}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AA18694D-30CA-4E75-B47D-4D54CEAA9ED0}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
