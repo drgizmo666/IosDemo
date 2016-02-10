@@ -86,6 +86,8 @@
     <ImageAsset Include="Resources\Images.xcassets\First.imageset\First.pdf" />
     <ImageAsset Include="Resources\Images.xcassets\Second.imageset\Contents.json" />
     <ImageAsset Include="Resources\Images.xcassets\Second.imageset\Second.pdf" />
+    <ImageAsset Include="Resources\Images.xcassets\First.imageset\superman.png" />
+    <ImageAsset Include="Resources\Images.xcassets\Second.imageset\flash.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.xib" />

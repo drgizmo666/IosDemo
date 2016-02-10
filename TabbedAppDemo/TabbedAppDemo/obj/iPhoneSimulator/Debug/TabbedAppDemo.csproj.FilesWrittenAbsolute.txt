@@ -29,3 +29,4 @@
 /Users/student/GitHub/IosDemo/TabbedAppDemo/TabbedAppDemo/bin/iPhoneSimulator/Debug/TabbedAppDemo.exe
 /Users/student/GitHub/IosDemo/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/TabbedAppDemo.exe
 /Users/student/GitHub/IosDemo/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/TabbedAppDemo.exe.mdb
+/Users/student/GitHub/IosDemo/TabbedAppDemo/TabbedAppDemo/obj/iPhoneSimulator/Debug/actool/bundle/Assets.car
