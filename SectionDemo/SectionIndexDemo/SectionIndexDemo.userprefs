@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="SectionIndexDemo/SectionIndexDemo.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SectionIndexDemo/TableViewControler.cs">
     <Files>
       <File FileName="SectionIndexDemo/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="SectionIndexDemo/TableViewControler.cs" Line="50" Column="31" />
+      <File FileName="SectionIndexDemo/TableViewControler.cs" Line="77" Column="1" />
       <File FileName="SectionIndexDemo/MyCell.cs" Line="10" Column="4" />
+      <File FileName="SectionIndexDemo/CustomSuperCell.cs" Line="14" Column="65" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

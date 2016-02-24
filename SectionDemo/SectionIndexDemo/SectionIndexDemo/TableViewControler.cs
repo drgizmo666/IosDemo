@@ -58,7 +58,7 @@ namespace SectionIndexDemo
 
 		public override UITableViewCell GetCell (UITableView tableView, NSIndexPath indexPath)
 		{
-			string item = tableItems [indexPath.Row];
+			string item = indexedTableItems[keys[indexPath.Section]][indexPath.Row];
 			var cell = (MyCell)tableView.DequeueReusableCell (MyCellId, indexPath);
 			cell.TextLabel.Text = item;
 
@@ -67,7 +67,7 @@ namespace SectionIndexDemo
 
 		public override void RowSelected (UITableView tableView, NSIndexPath indexPath)
 		{
-			UIAlertController okAlertController = UIAlertController.Create ("You Have Picked ", tableItems[indexPath.Row], UIAlertControllerStyle.Alert);
+			UIAlertController okAlertController = UIAlertController.Create ("You Have Picked ", indexedTableItems[keys[indexPath.Section]][indexPath.Row], UIAlertControllerStyle.Alert);
 			okAlertController.AddAction (UIAlertAction.Create ("Well Duh", UIAlertActionStyle.Default, null));
 			this.PresentViewController (okAlertController, true, null);
 			tableView.DeselectRow (indexPath, true);

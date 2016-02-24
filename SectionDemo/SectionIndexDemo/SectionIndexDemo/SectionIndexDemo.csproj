@@ -99,6 +99,7 @@
       <DependentUpon>TableViewControler.cs</DependentUpon>
     </Compile>
     <Compile Include="MyCell.cs" />
+    <Compile Include="CustomSuperCell.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
